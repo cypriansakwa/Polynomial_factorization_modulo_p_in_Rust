@@ -51,3 +51,12 @@ Add the dependencies to your Cargo.toml:
 num-bigint = "0.4"
 num-integer = "0.1"
 num-traits = "0.2"
+```
+## Installation
+
+To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project:
+
+  ```
+  git clone https://github.com/cypriansakwa/Polynomial_factorization_modulo_p_in_Rust.git
+  cd Polynomial_factorization_modulo_p_in_Rust
+  cargo build
